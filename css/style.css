@@ -434,11 +434,6 @@
   text-transform: lowercase;
   color: #8643dc;
 }
-form {
-  /* flex-direction: column;  */
-}
-.contact_form {
-}
 input {
   margin: 50px 0px;
   padding: 27px;
